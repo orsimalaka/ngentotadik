@@ -1,2 +1,2 @@
-# ngentotadik
-ngentotadik
+
+[ngentotadik](https://ngentotadik.pages.dev)
